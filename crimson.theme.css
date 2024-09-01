@@ -1,0 +1,39 @@
+/**
+ * @name crimson
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/TopUserPanel.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/HSL/HSL_top.css');
+
+:root {
+  --undefined: 0;
+  --color1: 65,25,22;
+  --color2: 17,2,1;
+  --color3: 244,67,54;
+  --undefined: 0;
+  --ColorOpacity: 0.5;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://feorev.github.io/Themes/Discord/FVUI/assets/HomeIcon/Icon.png');
+  --undefined: 0;
+  --FVUI: 0;
+  --customdesc: 0;
+}
+
+/* Any custom CSS below here */
+
+
